@@ -1,0 +1,54 @@
+1. Which protocol is used to send emails?
+A) HTTP
+B) SMTP
+C) FTP
+D) SNMP
+
+2. What does CPU stand for?
+A) Central Processing Unit
+B) Computer Power Unit
+C) Control Processing Unit
+D) Central Power Utility
+
+3. Which one is a web browser?
+A) Google Chrome
+B) Linux
+C) Python
+D) Oracle
+
+4. What is the main function of RAM?
+A) Permanent storage
+B) Temporary memory
+C) Arithmetic operations
+D) Power supply
+
+5. What does HTML stand for?
+A) HyperText Markup Language
+B) HighText Machine Language
+C) HyperTabular Markup Language
+D) None of these
+
+6. What is the binary representation of 5?
+A) 100
+B) 110
+C) 101
+D) 111
+
+7. Which of the following is not an operating system?
+A) Windows
+B) macOS
+C) Python
+D) Linux
+
+8. Which device connects a computer to a network?
+A) Router
+B) Modem
+C) Switch
+D) Keyboard
+
+9. What is the default port number for HTTP?
+A) 20
+B) 21
+C) 25
+D) 80
+
